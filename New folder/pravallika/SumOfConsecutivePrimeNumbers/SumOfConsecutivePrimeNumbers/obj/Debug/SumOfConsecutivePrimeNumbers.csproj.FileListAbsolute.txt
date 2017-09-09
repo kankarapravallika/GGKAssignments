@@ -1,0 +1,5 @@
+C:\Users\Sreekari\Desktop\pravallika\SumOfConsecutivePrimeNumbers\SumOfConsecutivePrimeNumbers\bin\Debug\SumOfConsecutivePrimeNumbers.exe.config
+C:\Users\Sreekari\Desktop\pravallika\SumOfConsecutivePrimeNumbers\SumOfConsecutivePrimeNumbers\bin\Debug\SumOfConsecutivePrimeNumbers.exe
+C:\Users\Sreekari\Desktop\pravallika\SumOfConsecutivePrimeNumbers\SumOfConsecutivePrimeNumbers\bin\Debug\SumOfConsecutivePrimeNumbers.pdb
+C:\Users\Sreekari\Desktop\pravallika\SumOfConsecutivePrimeNumbers\SumOfConsecutivePrimeNumbers\obj\Debug\SumOfConsecutivePrimeNumbers.exe
+C:\Users\Sreekari\Desktop\pravallika\SumOfConsecutivePrimeNumbers\SumOfConsecutivePrimeNumbers\obj\Debug\SumOfConsecutivePrimeNumbers.pdb

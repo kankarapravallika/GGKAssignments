@@ -1,0 +1,6 @@
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.exe.config
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.exe
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\bin\Debug\AddingTwoNumbers.pdb
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.exe
+C:\Users\Sreekari\Desktop\pravallika\AddingTwoNumbers\AddingTwoNumbers\obj\Debug\AddingTwoNumbers.pdb
